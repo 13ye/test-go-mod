@@ -2,7 +2,7 @@ package xyz
 
 import (
 	"fmt"
-	"xyz/test-go-mod/cmd"
+	"github.com/13ye/test-go-mod/cmd"
 )
 
 func GetMe() {

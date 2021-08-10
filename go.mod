@@ -1,3 +1,3 @@
-module xyz/test-go-mod
+module github.com/13ye/test-go-mod
 
 go 1.16
